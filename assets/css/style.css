@@ -1,0 +1,45 @@
+.grid{
+background-color:#FB5B5B;
+padding-top:1px;
+padding-bottom:1px;
+padding-right:50px;
+color:white;
+margin:0px;
+}
+.container{
+display:inline-block;
+margin-left: 40px;
+}
+
+.content{
+	display:inline-block;
+	margin:5px;
+text-align:center;
+}
+.cart{
+	background-color:#CCCCCC;
+	color:white;
+	padding:5px;
+}
+.fa-star{
+color:#FED77C;
+}
+.fa-circle{
+color:#C5CAC8;
+size: 2px;
+}
+.solid{
+background-color:#E6DADA;
+}
+.box{
+background-color:#FAFAFA;
+padding-top:1px;
+margin-top:-4px;
+padding-bottom:0px;
+}
+.boxe{
+background-color:#FAFAFA;
+padding-top:1px;
+margin-top:-4px;
+margin-bottom:-35px;
+}
